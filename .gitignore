@@ -1,0 +1,21 @@
+# Mac OS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Common IDE / Editor junk
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
